@@ -1,4 +1,4 @@
-![BYO BBM](http://www.madmarcel.github.io/byobbm/images/media/thumbnail-200x200.png)
+![BYO BBM](http://madmarcel.github.io/byobbm/images/media/thumbnail-200x200.png)
 
 ## BYO BBM - Build Your Own Blue Ball Machine
 
@@ -13,6 +13,9 @@ Build a blue ball machine as such that a ball can visit each widget on the page 
 
 Art and open source libraries used are listed in the credits page.
 
+Click here to play the game:
+
+[BYO BBM](http://madmarcel.github.io/byobbm/)
 
 
 

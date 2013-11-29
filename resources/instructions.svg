@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="600"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   inkscape:export-filename="C:\Users\Marcel\Documents\GitHub\game-off-2013\images\instructions.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90"
+   sodipodi:docname="instructions.svg">
+  <title
+     id="title7129">BYO BBM Instructions</title>
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;">
+      <path
+         id="path3762"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lstart"
+       style="overflow:visible">
+      <path
+         id="path3759"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(12.5,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lstart"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lstart-1"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3759-7"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(0.8,0,0,0.8,10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="279.43866"
+     inkscape:cy="250.95798"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="700px"
+     inkscape:window-width="1680"
+     inkscape:window-height="987"
+     inkscape:window-x="1358"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4209"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>BYO BBM Instructions</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-452.36224)">
+    <rect
+       style="fill:#fff6d5;fill-opacity:1;stroke:none"
+       id="rect4207"
+       width="650"
+       height="550"
+       x="25"
+       y="477.36224"
+       rx="5"
+       ry="5" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 146.12109,465.11224 0,46.5"
+       id="path2985"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="113.12109"
+       y="529.61224"
+       id="text4199"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4201"
+         x="113.12109"
+         y="529.61224"
+         style="font-size:12px;fill:#666666">Ball starts here</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="455"
+       y="599.61224"
+       id="text4203"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4205"
+         x="455"
+         y="599.61224"
+         style="font-size:12px;fill:#666666">Fill the page with these widgets</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="43.5"
+       y="990.11224"
+       id="text4235"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4237"
+         x="43.5"
+         y="990.11224"
+         style="font-size:12px;fill:#666666">Click here to add a ball</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart)"
+       d="m 34.875,1039.4973 23.25,-40.2701"
+       id="path2985-4"
+       inkscape:connector-curvature="0" />
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4299"
+       width="411"
+       height="137.25"
+       x="144.5"
+       y="683.73724"
+       ry="5"
+       rx="5" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="189.14063"
+       y="741.69818"
+       id="text4263"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4265"
+         x="189.14063"
+         y="741.69818">Build Your Own</tspan><tspan
+         sodipodi:role="line"
+         x="189.14063"
+         y="791.69818"
+         id="tspan4267"><tspan
+           style="fill:#0000ff;fill-opacity:1"
+           id="tspan4269">Blue Ball</tspan><tspan
+           style="-inkscape-font-specification:Gautami;font-family:Gautami;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+           id="tspan7165"> Machine</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.01578224px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow1Lstart-1);marker-end:url(#Arrow1Lend)"
+       d="m 689.80468,543.99843 -41.79679,0 0,407.97762 41.98422,0"
+       id="path4301"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.06177795px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 648.03088,750.11224 41.75074,0"
+       id="path4303"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.05953574px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:none;marker-end:url(#Arrow1Lend)"
+       d="m 648.02977,646.61224 41.56546,0"
+       id="path4305"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1.08884215px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 648.48192,851.36224 41.34866,0"
+       id="path4307"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 648.5,595.86224 -16.5,0"
+       id="path5611"
+       inkscape:connector-curvature="0" />
+    <g
+       id="g5647"
+       transform="translate(-13.499997,-2.0000017)">
+      <path
+         transform="matrix(0.38888889,0,0,0.36842105,83.33333,781.94119)"
+         d="m 210,173.5 c 0,5.24671 -4.02944,9.5 -9,9.5 -4.97056,0 -9,-4.25329 -9,-9.5 0,-5.24671 4.02944,-9.5 9,-9.5 4.97056,0 9,4.25329 9,9.5 z"
+         sodipodi:ry="9.5"
+         sodipodi:rx="9"
+         sodipodi:cy="173.5"
+         sodipodi:cx="201"
+         id="path5617"
+         style="fill:#0000ff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5619"
+         y="850.36224"
+         x="174"
+         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="850.36224"
+           x="174"
+           id="tspan5621"
+           sodipodi:role="line">Can you make a track where the ball visits every widget on the page at least once?</tspan></text>
+    </g>
+    <g
+       id="g5652"
+       transform="translate(-13.92285,-2.4233416)">
+      <path
+         transform="matrix(0.38888889,0,0,0.36842105,83.756183,806.78787)"
+         d="m 210,173.5 c 0,5.24671 -4.02944,9.5 -9,9.5 -4.97056,0 -9,-4.25329 -9,-9.5 0,-5.24671 4.02944,-9.5 9,-9.5 4.97056,0 9,4.25329 9,9.5 z"
+         sodipodi:ry="9.5"
+         sodipodi:rx="9"
+         sodipodi:cy="173.5"
+         sodipodi:cx="201"
+         id="path5617-0"
+         style="fill:#0000ff;fill-opacity:1;stroke:none"
+         sodipodi:type="arc" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text5619-9"
+         y="875.20892"
+         x="174.42285"
+         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="875.20892"
+           x="174.42285"
+           id="tspan5621-4"
+           sodipodi:role="line">Can you solve it using only one type of widget?</tspan></text>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="278.58252"
+       y="940.36224"
+       id="text7125"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7127"
+         x="278.58252"
+         y="940.36224"
+         style="font-size:13px;font-weight:bold;-inkscape-font-specification:Sans Bold">Click anywhere to start</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+       x="371"
+       y="1019.3622"
+       id="text7131"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan7133"
+         x="371"
+         y="1019.3622">Hint: Some of the widgets require multiple balls to 'activate'</tspan></text>
+    <path
+       sodipodi:type="arc"
+       style="fill:#0000ff;fill-opacity:1;stroke:none"
+       id="path5617-0-9"
+       sodipodi:cx="201"
+       sodipodi:cy="173.5"
+       sodipodi:rx="9"
+       sodipodi:ry="9.5"
+       d="m 210,173.5 a 9,9.5 0 1 1 -18,0 9,9.5 0 1 1 18,0 z"
+       transform="matrix(0.38888889,0,0,0.36842105,69.472981,828.78787)" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="160.13965"
+       y="897.20892"
+       id="text5619-9-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5621-4-2"
+         x="160.13965"
+         y="897.20892">Can you solve it using at least one of each widget?</tspan></text>
+  </g>
+</svg>

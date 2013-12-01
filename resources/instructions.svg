@@ -71,8 +71,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="279.43866"
-     inkscape:cy="250.95798"
+     inkscape:cx="548.32788"
+     inkscape:cy="249.76693"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -280,17 +280,6 @@
          x="278.58252"
          y="940.36224"
          style="font-size:13px;font-weight:bold;-inkscape-font-specification:Sans Bold">Click anywhere to start</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
-       x="371"
-       y="1019.3622"
-       id="text7131"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan7133"
-         x="371"
-         y="1019.3622">Hint: Some of the widgets require multiple balls to 'activate'</tspan></text>
     <path
        sodipodi:type="arc"
        style="fill:#0000ff;fill-opacity:1;stroke:none"
@@ -299,7 +288,7 @@
        sodipodi:cy="173.5"
        sodipodi:rx="9"
        sodipodi:ry="9.5"
-       d="m 210,173.5 a 9,9.5 0 1 1 -18,0 9,9.5 0 1 1 18,0 z"
+       d="m 210,173.5 c 0,5.24671 -4.02944,9.5 -9,9.5 -4.97056,0 -9,-4.25329 -9,-9.5 0,-5.24671 4.02944,-9.5 9,-9.5 4.97056,0 9,4.25329 9,9.5 z"
        transform="matrix(0.38888889,0,0,0.36842105,69.472981,828.78787)" />
     <text
        xml:space="preserve"
@@ -312,5 +301,31 @@
          id="tspan5621-4-2"
          x="160.13965"
          y="897.20892">Can you solve it using at least one of each widget?</tspan></text>
+    <g
+       id="g3054"
+       transform="translate(-78,0)">
+      <text
+         sodipodi:linespacing="125%"
+         id="text7131"
+         y="1005.3622"
+         x="371"
+         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1005.3622"
+           x="371"
+           id="tspan7133"
+           sodipodi:role="line">Hint: Some of the widgets require multiple balls to 'activate'</tspan></text>
+      <text
+         sodipodi:linespacing="125%"
+         id="text7131-1"
+         y="1020.2089"
+         x="371.41187"
+         style="font-size:11px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           y="1020.2089"
+           x="371.41187"
+           id="tspan7133-7"
+           sodipodi:role="line">        Some widgets will block balls until a ball arrives from a specific direction</tspan></text>
+    </g>
   </g>
 </svg>
